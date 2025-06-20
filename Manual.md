@@ -17,3 +17,15 @@
 | Stick on Rubber Feet | 10x | Rubber feet with a diameter of 15mm and 2mm thickness |
 | Double Sided Tape | 1x | To adhere the wristrest and tagplate |
 | Soldering Iron | 1x | To press in the brass inserts |
+
+## 1. Printing the parts
+* Suggested printing orientations for the parts with supports enabled, showing right hand side case only.
+
+| Top housing | Bottom housing | Switchplate |
+| ----------- | -------------- | ----------- |
+| ![](https://github.com/SineScire/KimikoCase/blob/acad9269b6bc3424d8fc935aaa9671ff9f3721f8/Images/TopHousingOrientation.png) | ![](https://github.com/SineScire/KimikoCase/blob/acad9269b6bc3424d8fc935aaa9671ff9f3721f8/Images/BottomHousingOrientation.png) | ![](https://github.com/SineScire/KimikoCase/blob/acad9269b6bc3424d8fc935aaa9671ff9f3721f8/Images/SwitchPlateOrientation.png) |
+
+
+| Washer | Tag plate | Gasket |
+| ------ | --------- | ------ |
+| ![](https://github.com/SineScire/KimikoCase/blob/acad9269b6bc3424d8fc935aaa9671ff9f3721f8/Images/WasherOrientation.png) | ![](https://github.com/SineScire/KimikoCase/blob/acad9269b6bc3424d8fc935aaa9671ff9f3721f8/Images/TagPlateOrientation.png) | ![](https://github.com/SineScire/KimikoCase/blob/acad9269b6bc3424d8fc935aaa9671ff9f3721f8/Images/GasketOrientation.png) |
