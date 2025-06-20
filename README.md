@@ -3,7 +3,7 @@
 # KimikoCase
 A case for the [Kimiko Rev 2](https://github.com/Keycapsss/Kimiko) with a gasket mount switchplate design
 
-There are mulitple versions of the gaskets:
+There are multiple versions of the gaskets:
 * Soft: Switchplate flexes with the press of a single key
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
