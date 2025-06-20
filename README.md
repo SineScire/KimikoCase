@@ -7,3 +7,5 @@ There are mulitple versions of the gaskets:
 * Soft: Switchplate flexes with the press of a single key
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
+
+![](https://github.com/SineScire/KimikoCase/blob/5a03134d07ea695889e7a3abe97a3973b81a5889/Images/Angle.jpg)
