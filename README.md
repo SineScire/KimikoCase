@@ -8,4 +8,6 @@ There are multiple versions of the gaskets:
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
 
+Read the manual ![here](https://github.com/SineScire/KimikoCase/blob/9ea37f770f0fdddc9d247b3e870625f5da6aa3f3/Manual.md)
+
 ![](https://github.com/SineScire/KimikoCase/blob/5a03134d07ea695889e7a3abe97a3973b81a5889/Images/Angle.jpg)
