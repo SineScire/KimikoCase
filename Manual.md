@@ -6,7 +6,7 @@
 | Top Housing | 2x | 3D Printed mirrored parts |
 | Bottom Housing | 2x | 3D Printed mirrored parts |
 | Switchplate | 2x | 3D Printed mirrored parts |
-| Gasket | 10x | 3D Printed part with flexible filament |
+| Gasket | 10x | 3D Printed part with flexible filament with a hardness around 95A |
 | Washer | 10x | 3D Printed part |
 | Tag Plate | 2x | 3D Printed part |
 | Template | 1x | 3D Printed template to help cut out the wrist rest material |
@@ -21,6 +21,7 @@
 | Soldering Iron | 1x | To press in the brass inserts |
 
 ## 1. Printing the parts
+* The gasket is printed with a flexible type of filament with a hardness around 95A
 * Suggested printing orientations for the parts with supports enabled, showing right hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
